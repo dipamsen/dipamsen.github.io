@@ -1,1 +1,3 @@
-# Check out [`dipamsen`](https://github.com/dipamsen) on GitHub
+# dipamsen.github.io
+
+Root page for GitHub Pages website.
