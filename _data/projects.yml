@@ -19,7 +19,7 @@
 - title: Raft Consensus
   source: https://github.com/dipamsen/raft
   image: /assets/raft.svg
-  description: "A simple implementation of the Raft consensus algorithm in C++."
+  description: "A simple implementation of the Raft consensus algorithm in Go."
   tags:
-    - C++
+    - Go
     - Distributed Systems
