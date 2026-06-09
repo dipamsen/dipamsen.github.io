@@ -1,0 +1,25 @@
+- title: Lumen
+  source: https://github.com/dipamsen/lumen
+  image: /assets/lumen-dp.png
+  description: "A simple scripting language for graphics rendering. It compiles to high performance C code under the hood, using the Raylib graphics library."
+  tags:
+    - OCaml
+    - Raylib
+    - Graphics
+- title: CPBattles
+  url: https://cpbattles.vercel.app/
+  source: https://github.com/dipamsen/cpbattles
+  image: /assets/cpbattles-logo.png
+  description: "A platform for competitive programming battles where players can create, join and compete in solving Codeforces problems."
+  tags:
+    - React
+    - PostgreSQL
+    - Mongo DB
+    - Azure
+- title: Raft Consensus
+  source: https://github.com/dipamsen/raft
+  image: /assets/raft.svg
+  description: "A simple implementation of the Raft consensus algorithm in C++."
+  tags:
+    - C++
+    - Distributed Systems

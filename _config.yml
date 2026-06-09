@@ -1,0 +1,7 @@
+title: dipamsen
+url: "https://dipamsen.github.io"
+baseurl: ""
+markdown: kramdown
+
+destination: "_site"
+
