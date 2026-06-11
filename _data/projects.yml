@@ -1,4 +1,5 @@
 - title: Lumen
+  url: https://lumenlang.vercel.app/
   source: https://github.com/dipamsen/lumen
   image: /assets/lumen-dp.png
   description: "A simple scripting language for graphics rendering. It compiles to high performance C code under the hood, using the Raylib graphics library."
