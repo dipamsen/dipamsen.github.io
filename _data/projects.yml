@@ -24,3 +24,12 @@
   tags:
     - Go
     - Distributed Systems
+- title: 3ace
+  url: https://dipamsen.github.io/3ace/
+  source: https://github.com/dipamsen/3ace
+  image: /assets/3ace.png
+  description: "An interactive, browser-based compiler frontend demonstration for translating source code into Three-Address Code (TAC)."
+  tags:
+    - Compilers
+    - Bison
+    - WebAssembly
