@@ -7,6 +7,22 @@
     - OCaml
     - Raylib
     - Graphics
+- title: 3ace
+  url: https://dipamsen.github.io/3ace/
+  source: https://github.com/dipamsen/3ace
+  image: /assets/3ace.png
+  description: "An interactive, browser-based compiler frontend demonstration for translating source code into Three-Address Code (TAC)."
+  tags:
+    - Compilers
+    - Bison
+    - WebAssembly
+- title: Raft Consensus
+  source: https://github.com/dipamsen/raft
+  image: /assets/raft.svg
+  description: "A simple implementation of the Raft consensus algorithm in Go."
+  tags:
+    - Go
+    - Distributed Systems
 - title: CPBattles
   url: https://cpbattles.vercel.app/
   source: https://github.com/dipamsen/cpbattles
@@ -17,19 +33,3 @@
     - PostgreSQL
     - Mongo DB
     - Azure
-- title: Raft Consensus
-  source: https://github.com/dipamsen/raft
-  image: /assets/raft.svg
-  description: "A simple implementation of the Raft consensus algorithm in Go."
-  tags:
-    - Go
-    - Distributed Systems
-- title: 3ace
-  url: https://dipamsen.github.io/3ace/
-  source: https://github.com/dipamsen/3ace
-  image: /assets/3ace.png
-  description: "An interactive, browser-based compiler frontend demonstration for translating source code into Three-Address Code (TAC)."
-  tags:
-    - Compilers
-    - Bison
-    - WebAssembly
